@@ -1,0 +1,11 @@
+
+textract
+https://betterprogramming.pub/extract-data-from-pdf-files-using-aws-textract-with-python-12ba62fde1b0
+
+PDF
+https://pdfminersix.readthedocs.io/en/latest/
+https://pythonguides.com/pdffilewriter-python-examples/
+
+Books
+https://docs.python-guide.org/
+
